@@ -1,0 +1,15 @@
+C:\Users\akash\source\repos\CoffeeCustomers\CoffeeCustomers\obj\Debug\CoffeeCustomers.csproj.AssemblyReference.cache
+C:\Users\akash\source\repos\CoffeeCustomers\CoffeeCustomers\obj\Debug\MainWindow.g.cs
+C:\Users\akash\source\repos\CoffeeCustomers\CoffeeCustomers\obj\Debug\App.g.cs
+C:\Users\akash\source\repos\CoffeeCustomers\CoffeeCustomers\obj\Debug\CoffeeCustomers_MarkupCompile.cache
+C:\Users\akash\source\repos\CoffeeCustomers\CoffeeCustomers\obj\Debug\CoffeeCustomers_MarkupCompile.lref
+C:\Users\akash\source\repos\CoffeeCustomers\CoffeeCustomers\bin\Debug\CoffeeCustomers.exe.config
+C:\Users\akash\source\repos\CoffeeCustomers\CoffeeCustomers\bin\Debug\CoffeeCustomers.exe
+C:\Users\akash\source\repos\CoffeeCustomers\CoffeeCustomers\bin\Debug\CoffeeCustomers.pdb
+C:\Users\akash\source\repos\CoffeeCustomers\CoffeeCustomers\obj\Debug\MainWindow.baml
+C:\Users\akash\source\repos\CoffeeCustomers\CoffeeCustomers\obj\Debug\CoffeeCustomers.g.resources
+C:\Users\akash\source\repos\CoffeeCustomers\CoffeeCustomers\obj\Debug\CoffeeCustomers.Properties.Resources.resources
+C:\Users\akash\source\repos\CoffeeCustomers\CoffeeCustomers\obj\Debug\CoffeeCustomers.csproj.GenerateResource.cache
+C:\Users\akash\source\repos\CoffeeCustomers\CoffeeCustomers\obj\Debug\CoffeeCustomers.csproj.CoreCompileInputs.cache
+C:\Users\akash\source\repos\CoffeeCustomers\CoffeeCustomers\obj\Debug\CoffeeCustomers.exe
+C:\Users\akash\source\repos\CoffeeCustomers\CoffeeCustomers\obj\Debug\CoffeeCustomers.pdb
